@@ -1,3 +1,1 @@
-깃 테스트
-dsdasdasdsad
-sadasdsaasda
+1.서버에 밀어넣기
